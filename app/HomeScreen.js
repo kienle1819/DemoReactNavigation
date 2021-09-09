@@ -11,7 +11,7 @@ export default class HomeScreen extends Component {
           title={i18n.t("go_to_detail")}
           onPress={() => this.props.navigation.navigate("Details")}
         />
-        <Text> App version 1.0</Text>
+        <Text> App version 1.1</Text>
       </View>
     );
   }

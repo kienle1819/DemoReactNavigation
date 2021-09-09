@@ -1,5 +1,5 @@
 <resources>
-	<string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">_eAy4UiefJTma0P3gT4MGpPHAJCjBJMaq5pbB</string>
+	<string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">o2NAJPGcREZ5VJSqBFD3-rBJDYZyacMd1I6tz</string>
     <string name="app_name">DemoReactNavigationRelease</string>
     <string name="appCenterAnalytics_whenToEnableAnalytics" moduleConfig="true" translatable="false">ALWAYS_SEND</string>
     <string name="appCenterCrashes_whenToSendCrashes" moduleConfig="true" translatable="false">ALWAYS_SEND</string>
